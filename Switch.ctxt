@@ -2,4 +2,8 @@
 comment0.target=Switch
 comment1.params=switchTeclado
 comment1.target=Switch(java.lang.String)
-numComments=2
+comment2.params=
+comment2.target=void\ setPulsaciones()
+comment3.params=
+comment3.target=java.lang.String\ getSwith()
+numComments=4

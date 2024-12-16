@@ -6,4 +6,12 @@ public class Switch {
         pulsaciones = 0;
         tipoSwitch = switchTeclado;        
     }
+    
+    public void setPulsaciones(){
+        pulsaciones++;
+    }
+    
+    public String getSwith(){
+        return tipoSwitch;
+    }
 }
