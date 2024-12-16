@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Teclado
+comment1.params=tamanoTeclado\ lenguaje
+comment1.target=Teclado(int,\ java.lang.String)
+numComments=2
